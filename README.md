@@ -1,5 +1,7 @@
 ### My first experiencia with Js + React 😫
 
+Desafio do programa de bolsa HubLocal em parceria com a Rocketseat.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
